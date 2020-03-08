@@ -2,5 +2,5 @@
 using namespace std;
 int main(){
 	cout<<"wtf changed"<<endl;
-	cout<<"get conflict“;
+	cout<<"conflict“;
 } 
